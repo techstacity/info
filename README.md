@@ -34,7 +34,7 @@ Just like a normal programmer, I do coffee, pizza, code, and local edible food.
 
 Facebook: [Hype Manu](https://www.facebook.com/hypemanu "I'm on Facebook")
 
-Twitter: [@hypemanu](https:/twitter.com/hypemanu "Check me out on Twitter")
+Twitter: [@hypemanu](https://twitter.com/hypemanu "Check me out on Twitter")
 
 Instagram: [@hypemanu](https://instagram.com/hypemanu "Follow me on Instagram")
 
